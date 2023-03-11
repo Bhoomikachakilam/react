@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bhoomikachakilam/react.git/static/css/main.1d48f88d.css",
+    "main.js": "/Bhoomikachakilam/react.git/static/js/main.cd4a4677.js",
+    "static/media/netflix-logo.png": "/Bhoomikachakilam/react.git/static/media/netflix-logo.96c57697faa493a4602e.png",
+    "index.html": "/Bhoomikachakilam/react.git/index.html",
+    "main.1d48f88d.css.map": "/Bhoomikachakilam/react.git/static/css/main.1d48f88d.css.map",
+    "main.cd4a4677.js.map": "/Bhoomikachakilam/react.git/static/js/main.cd4a4677.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d48f88d.css",
+    "static/js/main.cd4a4677.js"
+  ]
+}
